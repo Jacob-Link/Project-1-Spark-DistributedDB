@@ -31,8 +31,8 @@ Project utilizing PySpark to load, clean, extract insights, design a distributed
 ## How to review
 
 - Extract all data from zipped files
-- Run merge_credits.py
-- I recommend starting from reading the project assignment overview guidlines, to understand the project and the data. (in part0 directory)
+- Run merge_credits.py (part0 directory py file)
+- I recommend starting from reading the project assignment overview guidlines, to understand the project and the data (part0 directory PDF)
 - Second, look into the data cleaning process (part1 directory)
 - Third, review the insights found from within the data (part2 directory)
 - Last, if the design of a distributed DB interests you, part3 & part4 directories are the place for you. 
