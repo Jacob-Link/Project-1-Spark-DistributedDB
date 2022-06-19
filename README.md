@@ -1,4 +1,4 @@
-# project 1 - PySpark | Distributed Data
+# Project 1 - PySpark | Distributed Data
 
 Project utilizing PySpark to load, clean, extract insights, design a distributed DB based on the insights found, and deploy the design constraints. 
 
