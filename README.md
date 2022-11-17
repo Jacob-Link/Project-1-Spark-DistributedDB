@@ -16,8 +16,8 @@ Project utilizing PySpark to load, clean, extract insights, design a distributed
 
 - Data: 3 zipped files. (due to file upload limits, split into 3 zip files)
 	- project_1_data_1: 4 csv files (users.csv, queries.csv, movies.csv, tickets.csv)
-	- project_1_data_2: 1 csv file (cresits_1.csv)
-	- project_1_data_3: 1 csv file (cresits_2.csv)
+	- project_1_data_2: 1 csv file (credits_1.csv)
+	- project_1_data_3: 1 csv file (credits_2.csv)
 
 
 - part0 - 2 files (.py and PDF), run py file after extracting zipped data, merges credits_1 and credits_2 to credit.csv for the use through the project. Read PDF. 
